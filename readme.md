@@ -4,4 +4,6 @@
 
 3) Go to the .env file:
 
-change the mysql username and password.
+change the mysql username and password and database name.
+
+4) Please set the storage folder to chmod -R 777 permission.
